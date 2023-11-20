@@ -1,2 +1,3 @@
 # Git Graph
- Produces Commit Graph
+ Course Name: CSCI 3323
+ 
